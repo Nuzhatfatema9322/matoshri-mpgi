@@ -1,6 +1,6 @@
 import { useState } from "react";
 import presidentImg from "../assets/president.jpg";
-import secretaryImg from "../assets/secretary.jpg";
+import secretaryImg from "../assets/Secretary.jpg";
 import mdImg from "../assets/md.jpg";
 
 function BoardProfile() {
