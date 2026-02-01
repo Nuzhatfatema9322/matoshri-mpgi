@@ -1,5 +1,5 @@
 import PolyNotices from "../components/PolyNotices";
-import profImg from "../assets/prof.jpg"; 
+import profImg from "../assets/Prof.jpg"; 
 
 import { useEffect, useState } from "react";
 
